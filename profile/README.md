@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Team Customizr
+<img src="https://i.ibb.co/1YMsbhmP/New-Project-82.png" alt="Team Customizr" width="400" />
 
 ### The AI Discord Server Maker
 
