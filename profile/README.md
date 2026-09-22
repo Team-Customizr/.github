@@ -99,4 +99,3 @@ Please read our **Contributing Guidelines** before you start.
 
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Qm5aQdC5sY)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/teamcustomizr)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=g
