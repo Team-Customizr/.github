@@ -62,16 +62,6 @@ No more hours of setting up channels, roles and permissions. Just tell our AI wh
 
 ---
 
-## 🌟 Our Projects
-
-- 🚀 **[Customizr Bot](https://github.com/Team-Customizr/customizr-bot)** — The main AI bot that builds servers
-- 🌐 **[Customizr Dashboard](https://github.com/Team-Customizr/customizr-dashboard)** — Web page to manage your servers
-- 🔌 **[Customizr API](https://github.com/Team-Customizr/customizr-api)** — Public API for server building
-
-> ✏️ *Replace the links above with your real repos.*
-
----
-
 ## 📊 Organization Stats
 
 ![Team Customizr GitHub Stats](https://github-readme-stats.vercel.app/api?username=Team-Customizr&show_icons=true&theme=tokyonight&hide_border=true)
@@ -84,10 +74,8 @@ No more hours of setting up channels, roles and permissions. Just tell our AI wh
 We welcome help from coders of all skill levels!
 
 1. 🍴 Fork the repo
-2. 🌿 Make a new branch (`git checkout -b feature/amazing-feature`)
-3. 💾 Save your changes (`git commit -m 'Add amazing feature'`)
-4. 📤 Push the branch (`git push origin feature/amazing-feature`)
-5. 🔃 Open a Pull Request
+2.  💾 Save/commit your changes (`git commit -m 'Add amazing feature'`)
+3. 🔃 Open a Pull Request
 
 Please read our **Contributing Guidelines** before you start.
 
